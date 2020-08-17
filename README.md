@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/eureyuri/visual-share/blob/master/public/logo.png">
+</p>
+
 # Visual Share
 Sharing ideas visually.
 <br>
